@@ -6,7 +6,7 @@ Ruoqian Huang (no partner)
 https://github.com/RuoqianHuang/introduction-to-github
 
 3. link to your github pages site expose.html page: 
-   
+https://ruoqianhuang.github.io/Lab5_Starter/expose.html
 
 4. (as well as the link to explore.html if completed): 
-
+https://ruoqianhuang.github.io/Lab5_Starter/explore.html
